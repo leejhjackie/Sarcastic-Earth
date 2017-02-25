@@ -1,0 +1,36 @@
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 32px;
+	font-family: Arial;
+	margin-left: 22%;
+}
+#live {
+	margin-left: 25%;
+	font-family: Arial;
+}
+#not {
+	margin-left: 25%;
+	font-family: Arial;
+}
+#on {
+	color: lightblue;
+}
+ul {
+	font-family: Arial;
+}
+p {
+	font-family: Arial;
+}
+img {
+	width: 30%;
+	margin-left: 15%;
+	border: 10px;
+	border-style: solid;
+	border-color: blue;
+}
+#ball{
+	color: blue;
+	font-size: 50px;
+	font-family: 'Arial';
+}
